@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name:Default
+  Name :default
 
 steps:
 - task: NodeTool@0
